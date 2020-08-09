@@ -1,8 +1,14 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  font-size: 200 !important;
 }
-
+.rct-title {
+  font-size: 1.5em !important;
+}
+.rct-node-icon {
+  color: brown !important;
+}
 /* .App-logo {
   height: 40vmin;
   pointer-events: none;
